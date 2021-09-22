@@ -8,7 +8,7 @@ Repo is split into .Net and React in directories:
 
 ### Run
 Download repo and:
-- client: navigate to client directory, install dependecies with npm/yarn and run ```yarn start```
+- client: navigate to client directory, install dependecies with yarn and run ```yarn start```
 - server: navigate to server directory/WebApplication1 and open Notes API.sln with Visual Studio. Run server in any mode.
 
 ### Build
