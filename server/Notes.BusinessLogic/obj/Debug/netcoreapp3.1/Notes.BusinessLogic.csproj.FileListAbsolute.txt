@@ -1,0 +1,12 @@
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\bin\Debug\netcoreapp3.1\Notes.BusinessLogic.deps.json
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\bin\Debug\netcoreapp3.1\Notes.BusinessLogic.dll
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\bin\Debug\netcoreapp3.1\Notes.BusinessLogic.pdb
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\bin\Debug\netcoreapp3.1\Notes.DB.dll
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.csproj.AssemblyReference.cache
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.AssemblyInfoInputs.cache
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.AssemblyInfo.cs
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.csproj.CopyComplete
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.dll
+D:\Dev\react-asp-net-core\be\Notes.BusinessLogic\obj\Debug\netcoreapp3.1\Notes.BusinessLogic.pdb
